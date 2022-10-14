@@ -11,3 +11,7 @@ Modelo desenvolvido para ser utilziado em uma empresa que trabalha com emprésti
 ### [Modelo de Associação](https://github.com/igormartins0301/Machine_Learning/blob/main/Modelo_de_associa%C3%A7%C3%A3o.ipynb)
 Modelo desenvolvido para entender a associação entre compras de um supermercado, quando um cliente compra o 'item A', existe alguma relação com a compra do 'Item B'?
 Com a reposta dessa pergunta, fica possível criar um modelo de recomendação em um e-commerce, por exemplo, assim que um cliente insere um item em seu carrinho, o modelo recomenda um outro para complementar a compra.
+
+
+### [Modelo de regressão linear simples](https://github.com/igormartins0301/Machine_Learning/blob/main/Projeto_Regress%C3%A3o_Linear_simples.ipynb)
+Modelo desenvolvido para estimar se é possível abrir uma franquia sabendo apenas qual a taxa anual para manter o negócio.
